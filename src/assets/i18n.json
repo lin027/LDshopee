@@ -1,0 +1,43 @@
+{
+    "en": {
+      "title": "Size Chart",
+      "unitLeft": "Quickly select your size",
+      "unitRight": "Unit: CM",
+      "wcDes": "Unit (CM) flat data may have a 1-3 cm error, please understand.",
+      "size": "Size",
+      "length": "Length",
+      "shoulder":"Shoulder",
+      "bust": "Bust",
+      "skirtLength": "Skirt Length", 
+      "waist": "Waist",
+      "hip": "Hip", 
+      "sleevelength":"Sleeves",
+      "cuffsize":"Cuff Size",
+      "height": "Height",
+      "weight": "Weight",
+      "midLength": "Mid Length",
+      "inseam": "Inseam"
+      
+    },
+    "zh_tw": {
+      "title": "尺碼表",
+      "unitLeft": "快速選擇你的尺碼",
+      "unitRight": "單位：CM",
+      "wcDes": "單位(CM)平鋪數據可能存在1-3厘米的誤差，敬請諒解",
+      "size": "尺碼",
+      "length": "衣長",
+      "shoulder":"肩寬",
+      "bust": "胸圍",
+      "skirtLength": "裙長", 
+      "waist": "腰圍", 
+      "hip": "臀圍", 
+      "sleevelength":"袖長",
+      "cuffsize":"袖口",
+      "height": "身高",
+      "weight": "建議體重",
+      "midLength": "中長",
+      "inseam": "褲長"
+      
+      
+    }
+  }
