@@ -1,11 +1,11 @@
-import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
+import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router';
 import HomeView from '../views/HomeView.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/size',
-    name: 'Size',
-    component: () => import('../views/Size.vue') // 确保路径正确
+    name: 'Size',//@ts-ignore
+    component: () => import('../views/Size.vue')  
   },
   {
     path: '/',
@@ -20,7 +20,7 @@ const routes: Array<RouteRecordRaw> = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory(import.meta.env.BASE_URL || '/'),
   routes
 });
 
