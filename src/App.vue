@@ -10,6 +10,12 @@
         <el-menu-item index="1">
           <router-link to="/size">尺寸</router-link>
         </el-menu-item>
+        <el-menu-item index="2">
+          <router-link to="/home">描述改造</router-link>
+        </el-menu-item>
+        <el-menu-item index="3">
+          <router-link to="/personalShop">店铺</router-link>
+        </el-menu-item>
       </el-menu>
     </el-header>
     <el-main>

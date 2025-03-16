@@ -5,6 +5,7 @@
       <el-option label="包延长绳子" value="BagStrap"></el-option>
       <el-option label="包巾" value="BagScraf"></el-option>
       <el-option label="内裤" value="panties"></el-option>
+      <el-option label="羽絨服" value="coat"></el-option>
     </el-select>
   </div> 
   <div class="table-container">
@@ -135,12 +136,15 @@ export default {
       let jsonFilePaths=''
       try {
         if (this.selectedCategory=="panties") {
-           jsonFilePaths = ['/panties/1.JSON','/panties/2.JSON','/panties/3.JSON','/panties/4.JSON']
+           jsonFilePaths = ['panties/1.JSON','panties/2.JSON','panties/3.JSON','panties/4.JSON']
         }else if(this.selectedCategory=="BagScraf"){
-           jsonFilePaths = ['/BagScraf/1.JSON','/BagScraf/2.JSON','/BagScraf/F1.JSON']
+           jsonFilePaths = ['BagScraf/1.JSON','BagScraf/2.JSON','BagScraf/F1.JSON']
         }
          else if(this.selectedCategory=="BagStrap"){
-            jsonFilePaths = ['/bagStrapLongchamp/1.JSON','/bagStrapLongchamp/3.JSON']
+            jsonFilePaths = ['bagStrapLongchamp/1.JSON','bagStrapLongchamp/3.JSON']
+         }
+         else if(this.selectedCategory=="coat"){
+            jsonFilePaths = ['coat/1.JSON','coat/3.JSON']
          }
          
        
