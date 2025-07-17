@@ -1,0 +1,57 @@
+{
+  "en": {
+     "title": "Size Chart",
+    "unitRight": "Unit:CM",
+    "wcDes": "Unit (CM) flat data may have a 1-3 cm error, please understand.",
+    "heightTitle": "Suitable for various heights",
+    "sizeTitle": "Size Recommendation",
+    "weightLabel": "Recommended weight",
+    "heightTextArray":[{
+      "nameText":"short stature",
+      "heightText":"under 158cm"
+    },{
+      "nameText":"Standard style",
+      "heightText":"159-165cm"
+    },{
+      "nameText":"Extra-long",
+      "heightText":"Above 166cm"
+    }],
+
+    "size": "Size",
+    "waist": "Waist",
+    "hip": "Hip", 
+    "inseam": "Inseam",
+    "inseamPetite": "Petite Inseam",
+    "inseamRegular": "Regular Inseam",
+    "inseamLong": "Long Inseam"
+  },
+  "zh_tw": {
+     "title": "尺碼表",
+    "unitRight": "單位：公分(CM)",
+    "wcDes": "單位(CM))平鋪數據可能存在1-3厘米的誤差，敬請諒解",
+    "heightTitle": "滿足不同身高",
+    "sizeTitle": "選碼不糾結",
+    "weightLabel": "建議體重",
+    "heightTextArray":[{
+      "nameText":"小個子",
+      "heightText":"身高158cm以下",
+      "typeText":"建議小個子"
+    },{
+      "nameText":"常規款",
+      "heightText":"身高159-165cm",
+      "typeText":"建議常規款"
+    },{
+      "nameText":"加長款",
+      "heightText":"身高166cm以上",
+      "typeText":"建議加長款"
+    }],
+    "size": "尺碼",
+    "waist": "腰圍", 
+    "hip": "臀圍", 
+    "inseam": "褲長",
+    "inseamPetite": "小個子褲長",
+    "inseamRegular": "常規款褲長",
+    "inseamLong": "加長款褲長"
+
+  }
+}

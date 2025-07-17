@@ -15,7 +15,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  
   "dependencies": {
     "axios": "^1.7.9",
     "element-plus": "^2.8.5",
@@ -23,8 +22,14 @@
     "html2canvas": "^1.4.1",
     "lodash": "^4.17.21",
     "pinia": "^2.2.4",
+    "sortablejs-vue3": "^1.2.11",
+    "swiper": "^8.4.7",
     "vue": "^3.5.12",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-carousel-3d": "^1.0.1",
     "vue-router": "^4.5.0",
+    "vue3-carousel-3d": "^1.0.4",
+    "vuedraggable": "^2.24.3",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
@@ -37,8 +42,12 @@
     "@vue/tsconfig": "^0.5.1",
     "eslint": "^9.12.0",
     "eslint-plugin-vue": "^9.29.0",
+    "less": "^4.3.0",
+    "less-loader": "^12.2.0",
     "npm-run-all2": "^6.2.3",
     "prettier": "^3.3.3",
+    "sass": "^1.86.3",
+    "sass-loader": "^16.0.5",
     "typescript": "~5.5.4",
     "vite": "^5.4.8",
     "vue-tsc": "^2.1.6"

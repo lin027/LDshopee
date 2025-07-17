@@ -1,0 +1,4071 @@
+{
+    "error": 0,
+    "error_msg": "",
+    "data": {
+        "total": 97,
+        "no_more": false,
+        "user_behaviour_config": {
+            "user_behaviour_config_list": [
+                {
+                    "behaviour_type": "click",
+                    "count": 10,
+                    "duration_second": 3600,
+                    "page_infos": [
+                        "shop_category_landing..item"
+                    ]
+                },
+                {
+                    "behaviour_type": "impression",
+                    "count": 100,
+                    "duration_second": 3600,
+                    "page_infos": [
+                        "shop_category_landing..item"
+                    ]
+                }
+            ]
+        },
+        "centralize_item_card": {
+            "item_cards": [
+                {
+                    "itemid": 9948644178,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9948644178,
+                        "model_id": 65155182333,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 93200000,
+                        "strikethrough_price": 124300000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 2,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "2 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 29,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619437896,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "images": [
+                                "2f91f72db844d1daf335267585362af9",
+                                "2f91f72db844d1daf335267585362af9",
+                                "2f91f72db844d1daf335267585362af9"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality customized clothes Accessories 1/3 1/6 girl toys diy blue flower lolita skirt",
+                        "image": "2256587143a7f869725277dcf777faa5",
+                        "images": [
+                            "2256587143a7f869725277dcf777faa5",
+                            "2f91f72db844d1daf335267585362af9"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9941975616,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9941975616,
+                        "model_id": 91473081044,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 87800000,
+                        "strikethrough_price": 117000000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 9,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "9 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 60,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618387948,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            4,
+                            0,
+                            0,
+                            0,
+                            0,
+                            4
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "1/6",
+                                "1/4",
+                                "1/3"
+                            ],
+                            "images": [
+                                "e6b25ec27976621857bc4a40922becdc",
+                                "e6b25ec27976621857bc4a40922becdc",
+                                "e6b25ec27976621857bc4a40922becdc"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll kimono bathrobe 1/3 Accessories girl toys Clothes 1/6 princess skirt",
+                        "image": "e6b25ec27976621857bc4a40922becdc",
+                        "images": [
+                            "e6b25ec27976621857bc4a40922becdc",
+                            "e66cd1a1b9bc089052021240c9df18fe",
+                            "a59c4e068fa99100f40bd4890f2eb078",
+                            "7e4823f2f94e420428bc253d6d991320",
+                            "b57780dd6b38733f27f08063f6b9824f",
+                            "bb7d385ada56978bcd3714ce7b4f5b7e"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9841947100,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9841947100,
+                        "model_id": 44850210668,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 22900000,
+                        "strikethrough_price": 30500000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 61,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "61 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 176,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618385420,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            27,
+                            0,
+                            0,
+                            0,
+                            0,
+                            27
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "01",
+                                "02",
+                                "03",
+                                "04",
+                                "05",
+                                "06",
+                                "07",
+                                "08",
+                                "09"
+                            ],
+                            "images": [
+                                "7bd1614da2bf63d4034789cc34268fb7",
+                                "2afe32816ffa4e04d22eca1066846f5e",
+                                "1afd030d3f024d813c0b6a1319897975",
+                                "b5a8a376f7c47fae070c8c33de612a55",
+                                "c01405ed9c4072be45194b436d8a5707",
+                                "1e32c44309d8ccd1b37e42d2c53833bf",
+                                "2e426fd6099ef9e60362e6d9d0ea71aa",
+                                "204a6ade364f46360e776b600ecfc614",
+                                "519063af53e41a48eae2fd258ad90e08"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Clothes 1/6 Accessories diy noble skirt girl toys Princess dress 28cm Bohemian style",
+                        "image": "faf8e7885fbae676ae9c3841560cb01c",
+                        "images": [
+                            "faf8e7885fbae676ae9c3841560cb01c",
+                            "04eaf002e74bab2ee44de79cc286bcb5",
+                            "4d1c12897592d091cf87c91a3038fa20",
+                            "7bd1614da2bf63d4034789cc34268fb7",
+                            "2afe32816ffa4e04d22eca1066846f5e",
+                            "1afd030d3f024d813c0b6a1319897975",
+                            "b5a8a376f7c47fae070c8c33de612a55",
+                            "c01405ed9c4072be45194b436d8a5707",
+                            "1e32c44309d8ccd1b37e42d2c53833bf"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9748624590,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9748624590,
+                        "model_id": 45155177466,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 113200000,
+                        "strikethrough_price": 150900000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 1,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "1 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 26,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619437864,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "38-45cm1/4",
+                                "26-28cm1/6"
+                            ],
+                            "images": [
+                                "63db009a3e8ac8a1b51f9b49670dade9",
+                                "63db009a3e8ac8a1b51f9b49670dade9"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality customized clothes Accessories 1/4 1/6 girl toys diy Black and white cross skirt",
+                        "image": "751314e23cb4727eb8d50c5fa346dd66",
+                        "images": [
+                            "751314e23cb4727eb8d50c5fa346dd66",
+                            "63db009a3e8ac8a1b51f9b49670dade9"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9748000538,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9748000538,
+                        "model_id": 65124041378,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 34200000,
+                        "strikethrough_price": 45600000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 2,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "2 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 18,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619321581,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "images": [
+                                "24684f66e445c3f670bc39bfcf5742b5",
+                                "24684f66e445c3f670bc39bfcf5742b5",
+                                "24684f66e445c3f670bc39bfcf5742b5"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories 1/4 1/6 Pumpkin pants diy girl toys Safety pants",
+                        "image": "24684f66e445c3f670bc39bfcf5742b5",
+                        "images": [
+                            "24684f66e445c3f670bc39bfcf5742b5"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9439421279,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9439421279,
+                        "model_id": 81412860882,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 19300000,
+                        "strikethrough_price": 25700000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 24,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "24 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 78,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1617960215,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            15,
+                            0,
+                            0,
+                            0,
+                            0,
+                            15
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "black",
+                                "white",
+                                "red",
+                                "yellow",
+                                "green",
+                                "blue"
+                            ],
+                            "images": [
+                                "6b11a187f57e097296efe3377089235a",
+                                "fc9186112ae54861714be0ec46022426",
+                                "e8958ffd0205f74475d31cf45e305cf0",
+                                "c65a11853e2bbc14dbf05a7f3fcaf888",
+                                "db3e3090347ce9ab521cc5205d9f0a4d",
+                                "8c0d95a4ffeb7a3ce78382a6774e0d46"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll clothes 1/3  Long sleeve Accessories 30cm SD diy Universal Sweater girl toys",
+                        "image": "1e3edd3e4347eb0eba5b101119208d1a",
+                        "images": [
+                            "1e3edd3e4347eb0eba5b101119208d1a",
+                            "00a6be84a88b0aa7a277e45877f38399",
+                            "9e2d6c582586ad4f9edd1fc3397bf1f7",
+                            "4c8c963761736a3284ac3d1387748e6e",
+                            "e5938ce1839ab9b7d9360c12b3d82fe2",
+                            "6b11a187f57e097296efe3377089235a",
+                            "fc9186112ae54861714be0ec46022426",
+                            "c65a11853e2bbc14dbf05a7f3fcaf888",
+                            "e8958ffd0205f74475d31cf45e305cf0"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9148643802,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9148643802,
+                        "model_id": 55155136388,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 62800000,
+                        "strikethrough_price": 83700000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 9,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "9 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 42,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619437779,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            6,
+                            0,
+                            0,
+                            0,
+                            0,
+                            6
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "pink set",
+                                "blue set"
+                            ],
+                            "images": [
+                                "df6c834675d78bf0821f0670689ccd14",
+                                "e58779e8b82a8874df1355299da91ec2"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories Kindergarten set diy 1/6 girl toys clothes",
+                        "image": "e2ee589d9914cde374b398a866e85579",
+                        "images": [
+                            "e2ee589d9914cde374b398a866e85579",
+                            "99d345c991a857da0505ff104eb55b2c",
+                            "fb77c787d0647a5387fc30709ce12f87",
+                            "57f8240b906f58d89dba23ecfd381ebf",
+                            "df6c834675d78bf0821f0670689ccd14",
+                            "e58779e8b82a8874df1355299da91ec2"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9147997795,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9147997795,
+                        "model_id": 45124064343,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 127900000,
+                        "strikethrough_price": 170500000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 1,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "1 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 31,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619321563,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4"
+                            ],
+                            "images": [
+                                "dab426493c89b48f6fbd80e0e2618f30",
+                                "dab426493c89b48f6fbd80e0e2618f30"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality customized clothes Accessories 1/3 1/6 girl toys diy White cross lolita skirt",
+                        "image": "46d1a0243d6d63136e6811805b758b77",
+                        "images": [
+                            "46d1a0243d6d63136e6811805b758b77",
+                            "c3a44a7b4621af2e050cb8141c78a784",
+                            "dab426493c89b48f6fbd80e0e2618f30"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9042543744,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9042543744,
+                        "model_id": 54876625725,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 97200000,
+                        "strikethrough_price": 129600000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 14,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "14 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 170,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618471906,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            8,
+                            0,
+                            0,
+                            0,
+                            0,
+                            8
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "1/6",
+                                "1/4",
+                                "1/3"
+                            ],
+                            "images": [
+                                "b950bb1cb6937df1d7bb70b0ad75df9d",
+                                "b950bb1cb6937df1d7bb70b0ad75df9d",
+                                "b950bb1cb6937df1d7bb70b0ad75df9d"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories clothes diy 1/6 1/3 girl toys lolita custom Vintage Maid Dress",
+                        "image": "c8bb3d4887364d510bf736f5c40a2629",
+                        "images": [
+                            "c8bb3d4887364d510bf736f5c40a2629",
+                            "02c46d4b7277dbb26b6c9e8d1b05e9eb",
+                            "b950bb1cb6937df1d7bb70b0ad75df9d",
+                            "cffd7589fd90ed474c0eaf0691565139",
+                            "d18e71a3b90e284ae3c0e8ec644795c4",
+                            "7eb14ddc0dee7112406bbadc293155bd",
+                            "40a296a214d2f35eb1483cc1df7369b8"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9039858599,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9039858599,
+                        "model_id": 25278018579,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 9200000,
+                        "strikethrough_price": 12200000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 46,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "46 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 57,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618044304,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.65,
+                        "rating_count": [
+                            20,
+                            1,
+                            1,
+                            0,
+                            0,
+                            18
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "color",
+                            "options": [
+                                "pink",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow",
+                                "blue",
+                                "gray"
+                            ],
+                            "images": [
+                                "48ab1667aea5a3386d41feb4d769c985",
+                                "8bbdf118330f0dbebd38454880fe9a1e",
+                                "33c3d94d0a7b94fdeb755da2a2a6af45",
+                                "ef51a973dbe9e217dbf5b26df1416b87",
+                                "a865941d0242fac519b88f3d23c94229",
+                                "2bc5636edd6a38cfa50fc46d552fa0f4",
+                                "bd21492f966fe505964e4f864a456233"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Sweater Skirt  Accessories diy 28cm set clothes 1/6 fashion girl toys",
+                        "image": "5e3699dd8153492332272f1eb179b658",
+                        "images": [
+                            "5e3699dd8153492332272f1eb179b658",
+                            "99bf3545da21740b78f423aece3238c3",
+                            "3fa5c31f21846bd737b3619cf8b22868",
+                            "5b43fbefb12d07943deb82bb41ba3d86",
+                            "22694af6f18859ce059cc04fce75ab5c",
+                            "dad292eda6c935b5c7e4dba5ef7a977c",
+                            "1c8b81f6a6aee10a79bb27f51654b613",
+                            "999acccdccf216343706cca937f087d9",
+                            "8bbdf118330f0dbebd38454880fe9a1e"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "4.7",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9039858546,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9039858546,
+                        "model_id": 54756028726,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 8600000,
+                        "strikethrough_price": 11500000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 73,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "73 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 93,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618044304,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.7727272727272725,
+                        "rating_count": [
+                            44,
+                            1,
+                            1,
+                            1,
+                            1,
+                            40
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "color",
+                            "options": [
+                                "blue",
+                                "pink",
+                                "black",
+                                "white",
+                                "red",
+                                "purple",
+                                "gray",
+                                "yellow",
+                                "green"
+                            ],
+                            "images": [
+                                "8b1ed6e10c42f0b28956855db4077de6",
+                                "f1ae0619590409b784cf5b92d66f1605",
+                                "3ece711c51b217eaca3a9c8c26fbd553",
+                                "57ecbec359f2dccf92284c1c9ecf7e89",
+                                "1bbe60a6ea0adac18014f7367b316112",
+                                "8603cfdf1e6b0300ff721471334790e3",
+                                "1142d51e873ccfa7bd943180cdfb9da5",
+                                "d21609eaef040c8f8ed22b72fcd27bc6",
+                                "316d7335bbaac26934ba8ce6ae184529"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll gril toys 1/3 long leg socks Accessories  candy color long sock diy gift for 60cm dolls",
+                        "image": "35576cf5467b075844eed62a5c7a4319",
+                        "images": [
+                            "35576cf5467b075844eed62a5c7a4319",
+                            "26464f23ba4305af476a1b90c66b5f11",
+                            "e94ad65ebffd6166e68e2e8447f64b27",
+                            "f52b0d8b84d4f33a0e8bdf3ad1d870bb",
+                            "3ece711c51b217eaca3a9c8c26fbd553",
+                            "f1ae0619590409b784cf5b92d66f1605",
+                            "8b1ed6e10c42f0b28956855db4077de6",
+                            "1bbe60a6ea0adac18014f7367b316112",
+                            "5d170e4a5c17ba3fb50973eda9b6a31b"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "4.8",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 8842417959,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 8842417959,
+                        "model_id": 34870834989,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 11800000,
+                        "strikethrough_price": 15700000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 19,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "19 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 102,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618457472,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            8,
+                            0,
+                            0,
+                            0,
+                            0,
+                            8
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "rabbit  clothes",
+                                "White bear",
+                                "Brown bear"
+                            ],
+                            "images": [
+                                "e18facd2b167eebc9e6c0514987aa67f",
+                                "c52bf8d4fdb0cc92ad7a46a4a72fe76a",
+                                "c5fab6d5e80a6f047a8c5c84e39b2269"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "size",
+                            "options": [
+                                "1/6",
+                                "1/4",
+                                "length12cm"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll coat cashmere rabbit ear coat pink rabbits skin autumn and winter pajamas Decorative bear Accessories diy toys",
+                        "image": "b477ee14ca2f35232d0a84a5b98e763b",
+                        "images": [
+                            "b477ee14ca2f35232d0a84a5b98e763b",
+                            "c52bf8d4fdb0cc92ad7a46a4a72fe76a",
+                            "c5fab6d5e80a6f047a8c5c84e39b2269",
+                            "e18facd2b167eebc9e6c0514987aa67f",
+                            "65ca2ccbc5bdd3379e2738818332a9fa",
+                            "8490f8487b0a32360f7774e55cbf2c56"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 8778028816,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 8778028816,
+                        "model_id": 26769199414,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 18200000,
+                        "strikethrough_price": 25300000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 16,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "16 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 91,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1626267147,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            4,
+                            0,
+                            0,
+                            0,
+                            0,
+                            4
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "Blue coat",
+                                "Pink coat",
+                                "Blue Short Sleeve",
+                                "Pink short sleeve",
+                                "shorts",
+                                "Short skirt",
+                                "Black hat + bow",
+                                "White hat + bow"
+                            ],
+                            "images": [
+                                "e5655cce0bdcea3d6de950ef3cba17df",
+                                "6bf66716a98b2f80ddb6fcc505eb545d",
+                                "34330b15d64565ff6cf7eaae73b40bdf",
+                                "48dfc44d975e3516aee81144ae09b1cd",
+                                "4187fd3ac4d861b17dc490b4ba88092e",
+                                "78eb89c003e7d80605f5cda8b779f548",
+                                "81df060d0157718612c76a1910ff42c4",
+                                "967f9778169c0468095d6114f1d1637b"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll clothes Strawberry milk suit baseball cap 1/6 Accessories diy girl toys",
+                        "image": "01e5c2ed058a423cfc496e5b7f8ea16c",
+                        "images": [
+                            "01e5c2ed058a423cfc496e5b7f8ea16c",
+                            "05e120a10aa8dac6a859083308b64950",
+                            "3b8d19b595d37fc89894f94d496d5639",
+                            "5b2aac1f9ebf6ac7a180c265dd05b54b",
+                            "83c79bdc95bc5d06cfa02cb8d0a079c3",
+                            "d4836375afe344603b43670cf555423c",
+                            "22e85b6c99f57e61013035b1049c6534",
+                            "e5655cce0bdcea3d6de950ef3cba17df",
+                            "6bf66716a98b2f80ddb6fcc505eb545d"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 8244777966,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 8244777966,
+                        "model_id": 91537869745,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 136500000,
+                        "strikethrough_price": 182000000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 3,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "3 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 22,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618832161,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4"
+                            ],
+                            "images": [
+                                "f475f111f277b119f3aefaa085d82f0c",
+                                "f475f111f277b119f3aefaa085d82f0c"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality customized clothes Accessories 1/4 1/6 girl toys diy Blue ocean jellyfish skirt",
+                        "image": "42e6959d5a5b415d85295bb39b1a3b94",
+                        "images": [
+                            "42e6959d5a5b415d85295bb39b1a3b94",
+                            "a14a0e00bc28b164bd20920b962657c0",
+                            "f475f111f277b119f3aefaa085d82f0c"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 4785947924,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 4785947924,
+                        "model_id": 25396966954,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 87800000,
+                        "strikethrough_price": 117000000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 3,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "3 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 42,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618504354,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            3,
+                            0,
+                            0,
+                            0,
+                            0,
+                            3
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "1/6",
+                                "1/4",
+                                "1/3"
+                            ],
+                            "images": [
+                                "f95995da15fbf369f0228ec7f1a6ef71",
+                                "f95995da15fbf369f0228ec7f1a6ef71",
+                                "f95995da15fbf369f0228ec7f1a6ef71"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll skirt  Accessories SD 1/4 1/6 blue dress 28cm princess girl toys dress",
+                        "image": "e8eec0cb7c3431d03c4598e456bd1de8",
+                        "images": [
+                            "e8eec0cb7c3431d03c4598e456bd1de8",
+                            "f95995da15fbf369f0228ec7f1a6ef71",
+                            "a6c5285b7426574bf3fc8c557d4ef6d2",
+                            "8baec0fe5fc028d5407da2d6d0236d46",
+                            "625330372cdd956387691dd71b402927",
+                            "365e31f7a66eb5bca1fb1375430d193a",
+                            "c72a4d8d826043ba5d4ad232b847fdc4"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 4187357537,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 4187357537,
+                        "model_id": 110003186830,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 107900000,
+                        "strikethrough_price": 143900000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 2,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "2 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 30,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619437850,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "images": [
+                                "436070b41a0d28da13ab6ecef59a644a",
+                                "436070b41a0d28da13ab6ecef59a644a",
+                                "436070b41a0d28da13ab6ecef59a644a"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality clothes customized Accessories 1/4 clothes girl toys diy Black stars skirt",
+                        "image": "ae4fa3f4aa00e63e81124e1c3ce1b14d",
+                        "images": [
+                            "ae4fa3f4aa00e63e81124e1c3ce1b14d",
+                            "fcce94f624084f2dfde897c58ca044a6",
+                            "436070b41a0d28da13ab6ecef59a644a"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 4088437382,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 4088437382,
+                        "model_id": 45343942637,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 88500000,
+                        "strikethrough_price": 122900000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 2,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "2 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 34,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1620549875,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "images": [
+                                "14c98bf0956da6f4e2a7f8db0e2921c6",
+                                "14c98bf0956da6f4e2a7f8db0e2921c6",
+                                "14c98bf0956da6f4e2a7f8db0e2921c6"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories diy Vintage red lolita princess dress 1/4 girl skirt toys 1/6 Customized",
+                        "image": "33b0eb13b00b0493bc50a3569eeeb3cf",
+                        "images": [
+                            "33b0eb13b00b0493bc50a3569eeeb3cf",
+                            "84818c99f67393f958dadddb930cd73c",
+                            "14c98bf0956da6f4e2a7f8db0e2921c6"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 3041573288,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 3041573288,
+                        "model_id": 81633237008,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 124500000,
+                        "strikethrough_price": 166000000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 9,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "9 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 42,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1619437793,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            8,
+                            0,
+                            0,
+                            0,
+                            0,
+                            8
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "1/8-2 set",
+                                "1/4-2 set",
+                                "blythe-2 set",
+                                "1/3-2 set",
+                                "1/6-2 set",
+                                "OB11-2 set"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Custom clothes Lucky bag 2set Can choose size 1/6 1/4 Random style Value",
+                        "image": "490cfcfc4328e7375b51cff2c4e475e9",
+                        "images": [
+                            "490cfcfc4328e7375b51cff2c4e475e9",
+                            "a615345e91a161cfc990a24d207f35fe",
+                            "0237b9900cabc27365ffd4a6b87d42e9"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 3037669505,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 3037669505,
+                        "model_id": 54995267179,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 114200000,
+                        "strikethrough_price": 152300000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 3,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "3 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 36,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618907319,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3"
+                            ],
+                            "images": [
+                                "65be5ae012f49ecd8a8804e56a852586",
+                                "65be5ae012f49ecd8a8804e56a852586",
+                                "65be5ae012f49ecd8a8804e56a852586"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll princess dress Accessories 1/4 1/3 girl toys diy clothes Red skirt",
+                        "image": "65be5ae012f49ecd8a8804e56a852586",
+                        "images": [
+                            "65be5ae012f49ecd8a8804e56a852586",
+                            "8aa117533e55aa0e764863426c5e54f8",
+                            "88866c66056d2b1f15b98ee467220b3f",
+                            "05e3212712d6277ecddb92f636134e7b"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 2947087251,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 2947087251,
+                        "model_id": 74999787277,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 148900000,
+                        "strikethrough_price": 198500000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 14,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "14 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 83,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618917547,
+                    "flag": 0,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 5,
+                        "rating_count": [
+                            9,
+                            0,
+                            0,
+                            0,
+                            0,
+                            9
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "red",
+                                "black"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "size",
+                            "options": [
+                                "26-28cm1/6",
+                                "38-45cm1/4",
+                                "55-60cm1/3",
+                                "Blythe"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll dress High-quality customized clothes Accessories 1/3 1/6 girl toys diy Kimono Yukata skirt",
+                        "image": "1324cdff34d89ab370d1d8a465e159f8",
+                        "images": [
+                            "1324cdff34d89ab370d1d8a465e159f8",
+                            "de32bdcc9617006b036d7f50f86f40e6",
+                            "75e89bff4cc172568d28a3e43ccb7324",
+                            "1d1a4b5f6c0a1c28e8a564d389221cdf"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9039858603,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9039858603,
+                        "model_id": 74756028619,
+                        "promotion_type": 301,
+                        "promotion_id": 538257096704000,
+                        "price": 5900000,
+                        "strikethrough_price": 10100000,
+                        "discount": 42
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 263,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "263 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 83,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618044304,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.956521739130435,
+                        "rating_count": [
+                            92,
+                            0,
+                            0,
+                            0,
+                            4,
+                            88
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "color",
+                            "options": [
+                                "G10",
+                                "G31",
+                                "G17",
+                                "G19",
+                                "G06",
+                                "08",
+                                "09",
+                                "G01",
+                                "18"
+                            ],
+                            "images": [
+                                "77850eed6453ad9d0961ac6767a3cb7f",
+                                "54821bc28a98ff8fd5d569cf07512d35",
+                                "44687f52d4f5284db94a5946853ff5d9",
+                                "87f0c304ce22077618761c93eb7fa24f",
+                                "25fd276da8d81d42e884e4437ebd767d",
+                                "dc8f8544d3ce2d2eb35885835b9f1dec",
+                                "0a7a95fe379c112d668642369cb88d8c",
+                                "b07c192b7d6cf26b456efd6e4bccb084",
+                                "5a6c5bb4c578643012e4d894aa764cdb"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories diy 28cm set clothes 1/6 Fashion career skirt girl toys",
+                        "image": "86ac65c389a146773341ab751be30d2b",
+                        "images": [
+                            "86ac65c389a146773341ab751be30d2b",
+                            "ab6628b4a200b238fae06e4cad376db3",
+                            "1b4ffc5bdc4db134cf1fce7847d65f9f",
+                            "77850eed6453ad9d0961ac6767a3cb7f",
+                            "e8e1a78f06090bfe76b7cfe1d0aa7b10",
+                            "588f08cfdeadf72fa2d4d902489a96f5",
+                            "44687f52d4f5284db94a5946853ff5d9",
+                            "115c2cddf2b823d79c6b82e181b0d7d3",
+                            "b39515f5fbd9ce0565703103805f6845"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-42%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 8341945685,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 8341945685,
+                        "model_id": 34849989884,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 24800000,
+                        "strikethrough_price": 33100000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 69,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "69 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 114,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618384996,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.9714285714285715,
+                        "rating_count": [
+                            35,
+                            0,
+                            0,
+                            0,
+                            1,
+                            34
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "A-22",
+                                "A-24",
+                                "A-26",
+                                "A-30",
+                                "A-31",
+                                "A-34",
+                                "A-35",
+                                "A-36",
+                                "A-38",
+                                "A-7",
+                                "A-8",
+                                "A-21"
+                            ],
+                            "images": [
+                                "ba535523a211eeb4703378ca3ac95dce",
+                                "27e8a43f52af97d74d99a1e3689eef89",
+                                "b7ded9ca7f71a0b710501de0ee994b4e",
+                                "c5f72b0a2ea60f29eedd873c353894a7",
+                                "1965f0bc3dbdb0acfd88da24ca7b07c0",
+                                "fd0a2d226b213d7aafd34c01ba0f938d",
+                                "2e14492e73281eadfbfae7e2d4b6c5e4",
+                                "a687459099d6e0174fe6f3416137bf4f",
+                                "94747b4e7beb903ccb14f94b0a041a00",
+                                "8e25a0c65ee38ac5f86727c6007dcadd",
+                                "d35aca5895fb25079cce869fe9e73e54",
+                                "a5452cb828e2481c25135e70515cfa91"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll 60cm Accessories clothes dress Princess Wedding girl toy 1/3 skirt",
+                        "image": "492b5190a2e7a4068f13499558d05a40",
+                        "images": [
+                            "492b5190a2e7a4068f13499558d05a40",
+                            "3e7513300e543c143268d3a347418622",
+                            "8e25a0c65ee38ac5f86727c6007dcadd",
+                            "d35aca5895fb25079cce869fe9e73e54",
+                            "a5452cb828e2481c25135e70515cfa91",
+                            "ba535523a211eeb4703378ca3ac95dce",
+                            "27e8a43f52af97d74d99a1e3689eef89",
+                            "b7ded9ca7f71a0b710501de0ee994b4e",
+                            "c5f72b0a2ea60f29eedd873c353894a7"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "5.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 10554143535,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 10554143535,
+                        "model_id": 120859906449,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 9400000,
+                        "strikethrough_price": 13100000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 97,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "97 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        844931086908638,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 50,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1632904564,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.869565217391305,
+                        "rating_count": [
+                            92,
+                            0,
+                            0,
+                            2,
+                            8,
+                            82
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "Colour",
+                            "options": [
+                                "A",
+                                "B",
+                                "C",
+                                "D",
+                                "E",
+                                "F",
+                                "G"
+                            ],
+                            "images": [
+                                "1ca0358555e9913c98478e569ab391de",
+                                "bcb287491e1e6e3ee8c9505d8ebbb8f3",
+                                "624170f93ee745252dae5f5a594c273e",
+                                "8a8f83e1be874af6f3428ccffdc53736",
+                                "e6cad22a9d6db6aed9c747a3ea3d5904",
+                                "87a3f5f9dc1efdbd1b28e5a9924a7670",
+                                "6b317481b14819c845164c0a189b50f0"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD30cmdoll Lace Princess dress wedding dress doll clothing accessories",
+                        "image": "26d93877e8cf0151067d39eada743daa",
+                        "images": [
+                            "26d93877e8cf0151067d39eada743daa",
+                            "ba8e9ec792a229403f96b209af8b3f0e",
+                            "138a9a5c1ff0c502b9c06d24d9e56a38",
+                            "b54d7ff37de70032f7b7eb55a7306684",
+                            "def61429c590759465225a625f1bc57a",
+                            "1ca0358555e9913c98478e569ab391de",
+                            "bcb287491e1e6e3ee8c9505d8ebbb8f3",
+                            "624170f93ee745252dae5f5a594c273e",
+                            "8a8f83e1be874af6f3428ccffdc53736"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 12618140467,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 12618140467,
+                        "model_id": 57402793728,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 10000000,
+                        "strikethrough_price": 13900000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 237,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "237 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 218,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1632811964,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.868778280542986,
+                        "rating_count": [
+                            442,
+                            4,
+                            2,
+                            8,
+                            20,
+                            408
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "Color",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "11",
+                                "12",
+                                "13",
+                                "14",
+                                "15",
+                                "16"
+                            ],
+                            "images": [
+                                "cn-11134207-7r98o-lv4cxi5azbmcae",
+                                "cn-11134207-7r98o-lpt056pc15bp87",
+                                "cn-11134207-7r98o-lvtvdc6jy0irbe",
+                                "cn-11134207-7r98o-lpt056pc2jw53d",
+                                "cn-11134207-7r98o-lyag6wk9tjsj41",
+                                "cn-11134207-7r98o-lv4cxi5b0q6s34",
+                                "cn-11134207-7r98o-lpt056pc3ygl53",
+                                "cn-11134207-7r98o-lpt056pc5d11f8",
+                                "cn-11134207-7r98o-lqvkm0t0p6stf4",
+                                "117bd8b6e7f393f9793f06592ce03f0d",
+                                "f6095059160a3e9fa6b555413a3938a4",
+                                "fb6bad58dbf182e922933af6595f6a21",
+                                "2edf1d953503256efe1880e97e97dccf",
+                                "78ea732e25626bdc97d9dce54dc7ea84",
+                                "a20e44e7cb48e862d95596af7bda2bc7",
+                                "a1bf8ad41fa3a840ae07bcda4db11fa6"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD 16CM doll Dress Up Accessories OB11 Doll Clothes Suit 1/12 Bjd doll Clothes Dress Skirt",
+                        "image": "8d4635d89f663e67349e58ec598f47ab",
+                        "images": [
+                            "8d4635d89f663e67349e58ec598f47ab",
+                            "74bc343ecf7e42134d4853d3c69bc4b9",
+                            "c56284e0fb9f1fc46f5cc1132f0ff4a9",
+                            "dcb7e332a685a313756f6970bca934d6",
+                            "f64036bb7c447b2335a657f74157e7ca",
+                            "e1c8d7a416cf7743963a3c55dc33862d",
+                            "1c985a4c698b96539f9b0702fe6bb981",
+                            "117bd8b6e7f393f9793f06592ce03f0d",
+                            "68787318f82791531938e78c2b192e50"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 12018182379,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 12018182379,
+                        "model_id": 37404186604,
+                        "promotion_type": 301,
+                        "promotion_id": 538257096704000,
+                        "price": 7000000,
+                        "strikethrough_price": 10000000,
+                        "discount": 30
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 134,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "134 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 66,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1632815124,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.925233644859813,
+                        "rating_count": [
+                            107,
+                            0,
+                            0,
+                            0,
+                            8,
+                            99
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "Colour",
+                            "options": [
+                                "transparent",
+                                "pink"
+                            ],
+                            "images": [
+                                "f154f2bd31778c7cf29e3c8e0b0f52ac",
+                                "45245a3740672570db9d9d67636fc3f1"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "30CM BJD doll accessories transparent plexiglass support plastic stand exhibition stand doll stand support",
+                        "image": "6d79ccc83a7353e274565985bd4dd793",
+                        "images": [
+                            "6d79ccc83a7353e274565985bd4dd793",
+                            "7dd5c07a127bd33fb4690355f3cb83f8",
+                            "f68021abf804afade76c298ee16bc894",
+                            "f154f2bd31778c7cf29e3c8e0b0f52ac",
+                            "45245a3740672570db9d9d67636fc3f1",
+                            "d8613296b8598c17294555a1108d59b6",
+                            "080349fcd19897c6454c1bdae30719dd",
+                            "d4898d39e6b6f904eead1500c4a37864",
+                            "d6ba01c387e61d6120efd0e4716f416d"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-30%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 7886044640,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 7886044640,
+                        "model_id": 64908993955,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 5700000,
+                        "strikethrough_price": 7600000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 225,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "225 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        835429752608262,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 220,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618571484,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.929411764705883,
+                        "rating_count": [
+                            85,
+                            0,
+                            0,
+                            1,
+                            4,
+                            80
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "01",
+                                "02",
+                                "03",
+                                "04",
+                                "05",
+                                "06"
+                            ],
+                            "images": [
+                                "8dd04140678de46ede50e74b65ce94a4",
+                                "54adf87e54ddd3418d1d0e4deadef61c",
+                                "ec92eb8df2c7d9903b2fed55f98ea7b8",
+                                "5577d3a9c2beb0d4ff20d5005bc4fea0",
+                                "c3cb3f988c3091cf2c96ef6d655018f9",
+                                "495b0c1233188b219a601fb0b2b96e33"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll Accessories 1/6 DIY Princess shorts denim 30cm girl toys",
+                        "image": "2e9e9f83e3eafc0f868a547888cbd86d",
+                        "images": [
+                            "2e9e9f83e3eafc0f868a547888cbd86d",
+                            "f8956ea1aee5b8af683b53913afd5c88",
+                            "8d20d496168a9d2bd79cf08ba614d93e",
+                            "e9c0c5dcad2bee1e2cf1cc979b6f16d9",
+                            "db9a73edba52a35c0ca48a36f4a4bcf4",
+                            "a47310f209fa5f33fedad2d5de4c7a4d",
+                            "ecf332c572f3a832e173baa826a77def",
+                            "4bf519d8ea6cbe59b07694a78e788dab",
+                            "edfed513a400af4779ee5797e936825b"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 9039858514,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 9039858514,
+                        "model_id": 25278018354,
+                        "promotion_type": 301,
+                        "promotion_id": 538257532928000,
+                        "price": 15200000,
+                        "strikethrough_price": 20200000,
+                        "discount": 25
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 27,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "27 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        5325720221445638,
+                        822059952761878,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 51,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618044304,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.833333333333333,
+                        "rating_count": [
+                            18,
+                            0,
+                            0,
+                            1,
+                            1,
+                            16
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "color",
+                            "options": [
+                                "pink",
+                                "white",
+                                "Dark blue"
+                            ],
+                            "images": [
+                                "14eb3a199932617ccd17db5d128feaea",
+                                "21409e05a264166ea74fd334ad4196c0",
+                                "bfc56e515b1318d781409d2531215a62"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll 60cm Accessories  changing cardigan real button fabric sweater 1/3 for dolls",
+                        "image": "6a78ccf71ca1b9d174a692ed5dcf25c9",
+                        "images": [
+                            "6a78ccf71ca1b9d174a692ed5dcf25c9",
+                            "c53036bcd7a87ae591401d4cc98f3435",
+                            "af1cc14562a277c7b4438f0d5225a934",
+                            "0dfd2783e0a7c4a6b5e496a0b756109f",
+                            "bfc56e515b1318d781409d2531215a62",
+                            "14eb3a199932617ccd17db5d128feaea",
+                            "21409e05a264166ea74fd334ad4196c0",
+                            "35f3132fd79cf2d39ba64c46d2b0ae11",
+                            "f5180894f38a0ea2775284cee1a02fa8"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-25%"
+                        },
+                        "rating": {
+                            "rating_text": "4.8",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 8639939819,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 8639939819,
+                        "model_id": 34760552875,
+                        "promotion_type": 301,
+                        "promotion_id": 538257096704000,
+                        "price": 5500000,
+                        "strikethrough_price": 11000000,
+                        "discount": 50
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 327,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "327 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        835429752608262,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 64,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1618056033,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.928571428571429,
+                        "rating_count": [
+                            154,
+                            1,
+                            1,
+                            1,
+                            2,
+                            149
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "01 - Blue",
+                                "02 purple",
+                                "03 Pink",
+                                "04 - light pink"
+                            ],
+                            "images": [
+                                "2504215644dc2fd70780eab963a930ba",
+                                "895d22ba010e632c21f966a8321a1f42",
+                                "b485e069a0b290bc4b7a20438fa7a66e",
+                                "290c882539d43af87c687d26da48146b"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll 1/6 Accessories Prom skirt diy Princess dress girl toys clothes Suitable for dolls",
+                        "image": "d319b5153bc141e4e45ce19e757001f3",
+                        "images": [
+                            "d319b5153bc141e4e45ce19e757001f3",
+                            "0fb075f83709a8ba84c2be0fabb9781d",
+                            "37c75b51ca2d3187eb93a034e323cc0f",
+                            "ebb8428379ed4443572fad6534dcbcf3",
+                            "19f8803adad4cc57e8c94b3ded5e18a2",
+                            "a2115d588b447be83567d303915f6649",
+                            "2504215644dc2fd70780eab963a930ba",
+                            "895d22ba010e632c21f966a8321a1f42",
+                            "b485e069a0b290bc4b7a20438fa7a66e"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-50%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 13046864955,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 13046864955,
+                        "model_id": 27988662960,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 2700000,
+                        "strikethrough_price": 3800000,
+                        "discount": 29
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 61,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "61 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 10,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1636453452,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.813008130081301,
+                        "rating_count": [
+                            123,
+                            2,
+                            0,
+                            3,
+                            9,
+                            109
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "Color",
+                            "options": [
+                                "Random color"
+                            ],
+                            "images": [
+                                "72b6a4f2e3daaa0501f8b725a41559fc"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "【ready stock 】 BJD 30cm doll dress skirt doll house accessories 1/6 dolls dress accessories baby doll clothes dress",
+                        "image": "1b577dbc7c69a01e05dc2c48878d79e6",
+                        "images": [
+                            "1b577dbc7c69a01e05dc2c48878d79e6",
+                            "3d4a02e7b24764fa536b17918ea9c2fb",
+                            "38a09a355d03bf977eaf9492a6123d5f",
+                            "7825458b660d53a59544980f0e0b70d6",
+                            "0e160cf49e89ed024068af6a986df42d",
+                            "0c5f6cda48327bd2a7edec15c55d6168",
+                            "72b6a4f2e3daaa0501f8b725a41559fc",
+                            "2065007ed07d6402e6cd8edb6cab8a10"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-29%"
+                        },
+                        "rating": {
+                            "rating_text": "4.8",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 11831193025,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 11831193025,
+                        "model_id": 84315432723,
+                        "promotion_type": 0,
+                        "promotion_id": 0,
+                        "price": 28700000,
+                        "discount": 0
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 24,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "24 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1015215,
+                        822059952761878,
+                        5325720221445638,
+                        1558577,
+                        1563576,
+                        1000031,
+                        844931086908638,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 63,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1629212434,
+                    "flag": 65536,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.923076923076923,
+                        "rating_count": [
+                            13,
+                            0,
+                            0,
+                            0,
+                            1,
+                            12
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "white",
+                                "blue shoes",
+                                "white shoes",
+                                "pink",
+                                "pink shoes",
+                                "blue",
+                                "red"
+                            ],
+                            "images": [
+                                "e782a4a0e46233eb4b2264033e3c01bc",
+                                "56a1180e28fef4f1708972f025a9045d",
+                                "ee52feb881d8109bd6d8760425feca31",
+                                "0fc8328d57d8ec18919c97b948ada4c8",
+                                "5c82c7bdea7d8aaa96240573edef07ee",
+                                "a71a056f628e21cca3f6e3cb3f15b4ec",
+                                "0007e90cfe3730b05e80942276387219"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "BJD Doll 60cm Accessories clothes dress Princess Wedding girl toy 1/3 Sweater",
+                        "image": "a894c6ebb83152978c0d4ad6e216b4ab",
+                        "images": [
+                            "a894c6ebb83152978c0d4ad6e216b4ab",
+                            "454ed0ae6411a757f890a9431cfdc90f",
+                            "287fa2e8ec28aa3d4dd4592378e723c5",
+                            "2be6f23d1c6ab1b9174bb8e047b876ce",
+                            "baf46b876edae98b5621e8c0b885d045",
+                            "5b2567d7c24897bbe76e3c34f9a0c037",
+                            "a71a056f628e21cca3f6e3cb3f15b4ec",
+                            "926e73bf73bcb7ba466f40010690bbb9",
+                            "0fc8328d57d8ec18919c97b948ada4c8"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                }
+            ],
+            "card_set": {
+                "layout_id": 1,
+                "element_toggle": {
+                    "atc_button": false,
+                    "feedback_button": false
+                },
+                "card_set_name": "Shop Product Tab Other Sub Tab"
+            },
+            "card_version": "standard_version_v1"
+        },
+        "item_card_abt_data": {
+            "hit_exp_group": "Treatment 2"
+        },
+        "item_version": 1,
+        "dynamic_translation_status": 0
+    }
+}

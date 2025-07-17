@@ -1,0 +1,40 @@
+{
+  "bff_meta": null,
+  "error": 0,
+  "error_msg": null,
+  "data": {
+    "items": [],
+    "shopid": 1096031782,
+    "status": 1,
+    "flag": 2,
+    "total": 54,
+    "usage_limit": 10000,
+    "start_time": 1723477200,
+    "end_time": 1739289540,
+    "bundle_deal_rule": {
+      "rule_type": 2,
+      "min_amount": 2,
+      "fix_price": 0,
+      "discount_percentage": 1,
+      "discount_value": 0,
+      "additional_tiers": [
+        {
+          "min_amount": 5,
+          "fix_price": 0,
+          "discount_percentage": 2,
+          "discount_value": 0
+        },
+        {
+          "min_amount": 10,
+          "fix_price": 0,
+          "discount_percentage": 3,
+          "discount_value": 0
+        }
+      ]
+    },
+    "bundle_deal_id": 227196199370956,
+    "bundle_deal_label": "Any 2 enjoy 1% off",
+    "anchor_item_id": 25619293075,
+    "tracker_info": "{\"ab_test_sign\":\"fallback;fallback\",\"request_id\":\"b11ba3af2996a3e8e95158c9ac950c00\"}"
+  }
+}

@@ -1,0 +1,1177 @@
+{
+    "error": 0,
+    "error_msg": "",
+    "data": {
+        "total": 97,
+        "no_more": true,
+        "user_behaviour_config": {
+            "user_behaviour_config_list": [
+                {
+                    "behaviour_type": "click",
+                    "count": 10,
+                    "duration_second": 3600,
+                    "page_infos": [
+                        "shop_category_landing..item"
+                    ]
+                },
+                {
+                    "behaviour_type": "impression",
+                    "count": 100,
+                    "duration_second": 3600,
+                    "page_infos": [
+                        "shop_category_landing..item"
+                    ]
+                }
+            ]
+        },
+        "centralize_item_card": {
+            "item_cards": [
+                {
+                    "itemid": 29553922054,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 29553922054,
+                        "model_id": 119199135300,
+                        "promotion_type": 301,
+                        "promotion_id": 538257096704000,
+                        "price": 8500000,
+                        "strikethrough_price": 12200000,
+                        "discount": 30
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 1,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "1 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        844931064601283,
+                        844931086908638,
+                        1558577,
+                        822059952761878,
+                        5325720221445638,
+                        1563576,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 1,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1719531172,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 3,
+                        "rating_count": [
+                            1,
+                            0,
+                            0,
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "01dress",
+                                "02dress",
+                                "03dress",
+                                "04dress",
+                                "05dress",
+                                "06dress"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd74-lx1tpz5dcwin0c",
+                                "sg-11134201-7rd5j-lx1tpzbr3kyx96",
+                                "sg-11134201-7rd4q-lx1tpzhkv1vs03",
+                                "sg-11134201-7rd4o-lx1tpzsyeefe03",
+                                "sg-11134201-7rd4p-lx1tq01k1t3add",
+                                "sg-11134201-7rd6t-lx1tq07nsvgs22"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "dress",
+                            "options": [
+                                "dress for 30cm"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": " 30cm princess doll clothes toy dress 1/6 bjd",
+                        "image": "sg-11134201-7rd5x-lvymle7pc6iddf",
+                        "images": [
+                            "sg-11134201-7rd5x-lvymle7pc6iddf",
+                            "sg-11134201-7rd5m-lx1tpyz9n97q9e",
+                            "sg-11134201-7rd66-lx1tpwnr0218ab",
+                            "sg-11134201-7rd58-lx1tpx0ihdn0f8",
+                            "sg-11134201-7rd72-lx1tpx9e5sy2cf",
+                            "sg-11134201-7rd3s-lx1tpxqbfm3jf3",
+                            "sg-11134201-7rd5s-lx1tpy14zsjs49",
+                            "sg-11134201-7rd6c-lx1tpyeggaxyb1",
+                            "sg-11134201-7rd3m-lx1tpyptznqh18"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-30%"
+                        },
+                        "rating": {
+                            "rating_text": "3.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 29551384956,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 29551384956,
+                        "model_id": 250924997805,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 7200000,
+                        "strikethrough_price": 10300000,
+                        "discount": 30
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 44,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "44 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        1558577,
+                        1563576,
+                        822059952761878,
+                        5325720221445638,
+                        1718087960,
+                        1428713,
+                        1119699,
+                        844931064601283,
+                        844931086908638,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 4,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1717074299,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.739130434782608,
+                        "rating_count": [
+                            23,
+                            0,
+                            0,
+                            1,
+                            4,
+                            18
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "video_info_list": [
+                        {
+                            "video_id": "api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16000081717074229.mp4",
+                            "thumb_url": "sg-11110106-7rd70-lvx8mrmfzvae69",
+                            "duration": 33,
+                            "version": 2,
+                            "vid": "sg-11110106-6khwc-lvx8mowhyun304",
+                            "formats": [
+                                {
+                                    "format": 1600008,
+                                    "defn": "V720P",
+                                    "profile": "MP4",
+                                    "path": "api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16000081717074229.mp4",
+                                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16000081717074229.mp4",
+                                    "width": 720,
+                                    "height": 960
+                                }
+                            ],
+                            "default_format": {
+                                "format": 1600323,
+                                "defn": "V540P",
+                                "profile": "MP4",
+                                "path": "",
+                                "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.default.mp4",
+                                "width": 540,
+                                "height": 720
+                            },
+                            "mms_data": "{\"vid\":\"sg-11110106-6khwc-lvx8mowhyun304\",\"biz\":107,\"duration\":33159,\"create_time\":1717074227,\"update_time\":1717074232,\"serviceID\":2,\"cover\":\"https://down-cvs-sg.img.susercontent.com/sg-11110106-7rd70-lvx8mrmfzvae69\",\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16000081717074229.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16000081717074229.mp4\",\"width\":720,\"height\":960,\"bitrate\":827785,\"abitrate\":128230,\"duration\":33111,\"size\":3982773,\"fps\":25.03023,\"update_time\":1717074248,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16003091717074267.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.16003091717074267.mp4\",\"width\":720,\"height\":960,\"bitrate\":573347,\"abitrate\":128230,\"duration\":33111,\"size\":2933994,\"fps\":25.03023,\"update_time\":1717074308,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khwc-lvx8mowhyun304.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":407111,\"abitrate\":128170,\"duration\":33131,\"size\":2240836,\"fps\":25.03023,\"update_time\":1717074278,\"codec\":\"H264\"}}"
+                        }
+                    ],
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "O1",
+                                "O2",
+                                "O3",
+                                "O4",
+                                "O5",
+                                "O6",
+                                "O7",
+                                "O8",
+                                "O9",
+                                "O10",
+                                "O11",
+                                "O12",
+                                "O13"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd5u-lvx8mgsvtlnnae",
+                                "sg-11134201-7rd3x-lvx8mhcb16j553",
+                                "sg-11134201-7rd5z-lvx8mhys4a694b",
+                                "sg-11134201-7rd6l-lvx8miihbgzmc8",
+                                "sg-11134201-7rd60-lvx8mj3ug77247",
+                                "sg-11134201-7rd4p-lvx8mjsjg1ssbe",
+                                "sg-11134201-7rd6a-lvx8mk6yuydvb8",
+                                "sg-11134201-7rd44-lvx8mkkuanl31b",
+                                "sg-11134201-7rd5k-lvx8ml53h0hh06",
+                                "sg-11134201-7rd47-lvx8mlmkrf1kf6",
+                                "sg-11134201-7rd5u-lvx8mma5swf051",
+                                "sg-11134201-7rd5l-lvx8mms72inwdb",
+                                "sg-11134201-7rd65-lvx8mn8aeyij48"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "model",
+                            "options": [
+                                "dress（no doll）"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "30cm bjd doll clothing sportswear set 11 inch dolls clothing girl changing dress",
+                        "image": "sg-11134201-7rd55-lvx8mf30c5n781",
+                        "images": [
+                            "sg-11134201-7rd55-lvx8mf30c5n781",
+                            "sg-11134201-7rd53-lvx8mfhpqmm49c",
+                            "sg-11134201-7rd49-lvx8mfwp4ox2ab",
+                            "sg-11134201-7rd3w-lvx8mg46tq9gb8",
+                            "sg-11134201-7rd6m-lvx8mgb4jlak44"
+                        ],
+                        "icon_in_image": {
+                            "icon_type": 2,
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-30%"
+                        },
+                        "rating": {
+                            "rating_text": "4.7",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 28354475227,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 28354475227,
+                        "model_id": 176556739683,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 7400000,
+                        "strikethrough_price": 10600000,
+                        "discount": 30
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 62,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "62 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        844931064601283,
+                        844931086908638,
+                        1558577,
+                        822059952761878,
+                        5325720221445638,
+                        1563576,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 21,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1720062112,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.898550724637682,
+                        "rating_count": [
+                            69,
+                            0,
+                            0,
+                            2,
+                            3,
+                            64
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "video_info_list": [
+                        {
+                            "video_id": "api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16000081720062041.mp4",
+                            "thumb_url": "sg-11110106-7rd4r-lxalhpi6o2fea3",
+                            "duration": 21,
+                            "version": 2,
+                            "vid": "sg-11110106-6khxu-lxalhlmw8qrq7d",
+                            "formats": [
+                                {
+                                    "format": 1600008,
+                                    "defn": "V720P",
+                                    "profile": "MP4",
+                                    "path": "api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16000081720062041.mp4",
+                                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16000081720062041.mp4",
+                                    "width": 720,
+                                    "height": 960
+                                }
+                            ],
+                            "default_format": {
+                                "format": 1600323,
+                                "defn": "V540P",
+                                "profile": "MP4",
+                                "path": "",
+                                "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.default.mp4",
+                                "width": 540,
+                                "height": 720
+                            },
+                            "mms_data": "{\"vid\":\"sg-11110106-6khxu-lxalhlmw8qrq7d\",\"biz\":107,\"duration\":21455,\"create_time\":1720062039,\"update_time\":1720062042,\"serviceID\":2,\"cover\":\"https://down-cvs-sg.img.susercontent.com/sg-11110106-7rd4r-lxalhpi6o2fea3\",\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16000081720062041.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16000081720062041.mp4\",\"width\":720,\"height\":960,\"bitrate\":1005846,\"abitrate\":128139,\"duration\":21409,\"size\":3047861,\"fps\":25.04682,\"update_time\":1720062055,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16003091720062073.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.16003091720062073.mp4\",\"width\":720,\"height\":960,\"bitrate\":755999,\"abitrate\":128139,\"duration\":21409,\"size\":2383782,\"fps\":25.04682,\"update_time\":1720062104,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxu-lxalhlmw8qrq7d.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":465852,\"abitrate\":128127,\"duration\":21419,\"size\":1604618,\"fps\":25.04682,\"update_time\":1720062080,\"codec\":\"H264\"}}"
+                        }
+                    ],
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "R1",
+                                "R2",
+                                "R3",
+                                "R4",
+                                "R5",
+                                "R6",
+                                "R7 #",
+                                "R8",
+                                "R9",
+                                "R10",
+                                "R11"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd4p-lxalha2p5sp2e8",
+                                "sg-11134201-7rd45-lxalhar462jk1b",
+                                "sg-11134201-7rd5u-lxalhbj512h6a6",
+                                "sg-11134201-7rd5p-lxalhcmjfeq0d9",
+                                "sg-11134201-7rd50-lxalhdeu9zeude",
+                                "sg-11134201-7rd58-lxalhe3j9uoa63",
+                                "sg-11134201-7rd3s-lxalhegktl2ha3",
+                                "sg-11134201-7rd47-lxalhfbnioprd6",
+                                "sg-11134201-7rd5g-lxalhg02hjtr73",
+                                "sg-11134201-7rd5w-lxalhhg8d8aw13",
+                                "sg-11134201-7rd47-lxalhi61bgqy7d"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "model",
+                            "options": [
+                                "Only clothes"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "30cm 11 inch doll clothing accessories princess dress hanging dress fashion",
+                        "image": "sg-11134201-7rd4p-lxalh8avsl70ca",
+                        "images": [
+                            "sg-11134201-7rd4p-lxalh8avsl70ca",
+                            "sg-11134201-7rd6v-lxalh8m9bxvw1b",
+                            "sg-11134201-7rd5w-lxalh94kjr2ice",
+                            "sg-11134201-7rd75-lxalh9e07co919"
+                        ],
+                        "icon_in_image": {
+                            "icon_type": 2,
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-30%"
+                        },
+                        "rating": {
+                            "rating_text": "4.9",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 27552545074,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 27552545074,
+                        "model_id": 241002505037,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 22300000,
+                        "strikethrough_price": 31000000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 0,
+                        "monthly_sold_count": 0
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        1558577,
+                        822059952761878,
+                        5325720221445638,
+                        1563576,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        844931064601283,
+                        844931086908638,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 1,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1718176835,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 0,
+                        "rating_count": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "white dress",
+                                "black dress",
+                                "red dress"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd5c-lwfgaz25nqakf9",
+                                "sg-11134201-7rd4e-lwfgazsskr6j9e",
+                                "sg-11134201-7rd6j-lwfgb0sb4s4nc4"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "11 inch 30cm doll dress 6 inch doll dress white wedding dress trailing skirt",
+                        "image": "sg-11134201-7rd3v-lwfgaq68nwbpf5",
+                        "images": [
+                            "sg-11134201-7rd3v-lwfgaq68nwbpf5",
+                            "sg-11134201-7rd5w-lwfgas3busjlba",
+                            "sg-11134201-7rd6a-lwfgatcu06vbb9",
+                            "sg-11134201-7rd5z-lwfgau190gsm6f",
+                            "sg-11134201-7rd6q-lwfgauq7zwyddf",
+                            "sg-11134201-7rd43-lwfgavguwy8t4b",
+                            "sg-11134201-7rd3t-lwfgawdll1hp37",
+                            "sg-11134201-7rd6n-lwfgaxacaj293f",
+                            "sg-11134201-7rd3y-lwfgay4v0g5jf1"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.8 Shop Rating",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 2
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 26703927998,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 26703927998,
+                        "model_id": 251098751413,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 7100000,
+                        "strikethrough_price": 9800000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 20,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "20 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        844931064601283,
+                        844931086908638,
+                        1558577,
+                        822059952761878,
+                        5325720221445638,
+                        1563576,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        997941125,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 3,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1719539752,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4.653846153846154,
+                        "rating_count": [
+                            26,
+                            0,
+                            1,
+                            2,
+                            2,
+                            21
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "video_info_list": [
+                        {
+                            "video_id": "api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16000081719539690.mp4",
+                            "thumb_url": "sg-11110106-7rd5y-lx1yujbafs5e6f",
+                            "duration": 29,
+                            "version": 2,
+                            "vid": "sg-11110106-6khxq-lx1yuag7ed8mdc",
+                            "formats": [
+                                {
+                                    "format": 1600008,
+                                    "defn": "V720P",
+                                    "profile": "MP4",
+                                    "path": "api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16000081719539690.mp4",
+                                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16000081719539690.mp4",
+                                    "width": 720,
+                                    "height": 960
+                                }
+                            ],
+                            "default_format": {
+                                "format": 1600323,
+                                "defn": "V540P",
+                                "profile": "MP4",
+                                "path": "",
+                                "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.default.mp4",
+                                "width": 540,
+                                "height": 720
+                            },
+                            "mms_data": "{\"vid\":\"sg-11110106-6khxq-lx1yuag7ed8mdc\",\"biz\":107,\"duration\":28955,\"create_time\":1719539688,\"update_time\":1719539691,\"serviceID\":2,\"cover\":\"https://down-cvs-sg.img.susercontent.com/sg-11110106-7rd5y-lx1yujbafs5e6f\",\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16000081719539690.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16000081719539690.mp4\",\"width\":720,\"height\":960,\"bitrate\":852254,\"abitrate\":128103,\"duration\":28909,\"size\":3565201,\"fps\":25.03463,\"update_time\":1719539706,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16003071728757261.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16003071728757261.mp4\",\"width\":540,\"height\":720,\"bitrate\":302776,\"abitrate\":128103,\"duration\":28920,\"size\":1586108,\"fps\":25,\"update_time\":1728757280,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16003091719539723.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.16003091719539723.mp4\",\"width\":720,\"height\":960,\"bitrate\":521306,\"abitrate\":128103,\"duration\":28909,\"size\":2373671,\"fps\":25.03463,\"update_time\":1719539761,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6khxq-lx1yuag7ed8mdc.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":460553,\"abitrate\":128094,\"duration\":28927,\"size\":2149254,\"fps\":25.03463,\"update_time\":1719539733,\"codec\":\"H264\"}}"
+                        }
+                    ],
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "J100",
+                                "J200",
+                                "J300",
+                                "J400",
+                                "J500",
+                                "J600",
+                                "J700",
+                                "J800",
+                                "J900",
+                                "J1000",
+                                "J1100",
+                                "J1200",
+                                "J1300",
+                                "J1400"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd5z-lx1yu25nko7ea5",
+                                "sg-11134201-7rd3y-lx1yu2net9xic3",
+                                "sg-11134201-7rd44-lx1yu2zmbf4819",
+                                "sg-11134201-7rd4c-lx1yu3drqpmwa8",
+                                "sg-11134201-7rd55-lx1yu3tb3z2g31",
+                                "sg-11134201-7rd5u-lx1yu4bwe5xi82",
+                                "sg-11134201-7rd68-lx1yu4qbrnm0fb",
+                                "sg-11134201-7rd6y-lx1yu5b4x7bcd1",
+                                "sg-11134201-7rd6c-lx1yu5sc80ng5e",
+                                "sg-11134201-7rd4g-lx1yu6dzcd0p12",
+                                "sg-11134201-7rd4a-lx1yu79m22dm0a",
+                                "sg-11134201-7rd5t-lx1yu7wd66bu7f",
+                                "sg-11134201-7rd6x-lx1yu8qlwih68a",
+                                "sg-11134201-7rd4s-lx1yu96z8kbt44"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "clothing",
+                            "options": [
+                                "clothing"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "Men's clothing 1/6 Prince Ken doll clothing suit sportswear shirt pants set",
+                        "image": "sg-11134201-7rd3r-lx1yu10l7d5y6d",
+                        "images": [
+                            "sg-11134201-7rd3r-lx1yu10l7d5y6d",
+                            "sg-11134201-7rd3r-lx1yu1eqmns91e",
+                            "sg-11134201-7rd66-lx1yu1q460ga9a"
+                        ],
+                        "icon_in_image": {
+                            "icon_type": 2,
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.7",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 25432778656,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 25432778656,
+                        "model_id": 137967025596,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 5800000,
+                        "strikethrough_price": 8000000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 4,
+                        "monthly_sold_count": 0,
+                        "historical_sold_count_text": "4 sold"
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        844931086908638,
+                        844931064601283,
+                        1558577,
+                        1563576,
+                        822059952761878,
+                        5325720221445638,
+                        1428713,
+                        1718087960,
+                        1119699,
+                        997941125,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 5,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1719534072,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 4,
+                        "rating_count": [
+                            6,
+                            1,
+                            0,
+                            0,
+                            2,
+                            3
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "001",
+                                "002",
+                                "003",
+                                "004",
+                                "005",
+                                "006",
+                                "007",
+                                "008",
+                                "009",
+                                "010",
+                                "011",
+                                "012",
+                                "013",
+                                "014"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd41-lx1vg4j3809s35",
+                                "sg-11134201-7rd6n-lx1vg5gdvah6f8",
+                                "sg-11134201-7rd3q-lx1vg71tkmrwcd",
+                                "sg-11134201-7rd5z-lx1vg89xqo3qf1",
+                                "sg-11134201-7rd4i-lx1vg9vne7pib5",
+                                "sg-11134201-7rd3t-lx1vgavfz949f8",
+                                "sg-11134201-7rd5i-lx1vgc4o52ee33",
+                                "sg-11134201-7rd4s-lx1vgdi23dxk95",
+                                "sg-11134201-7rd73-lx1vgese7kug8b",
+                                "sg-11134201-7rd74-lx1vgfngy3qe8e",
+                                "sg-11134201-7rd6o-lx1vggq1do0ab5",
+                                "sg-11134201-7rd41-lx1vghw7pco602",
+                                "sg-11134201-7rd4u-lx1vgizw1vxla3",
+                                "sg-11134201-7rd5l-lx1vgk08kork0c"
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "name": "model",
+                            "options": [
+                                "only dress"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": " 30cm Dressed in doll supermodel Xinyi suspender cake skirt mini umbrella skirt dress clothes 1/6",
+                        "image": "sg-11134201-7rd4q-lx1vfzjuib7sd0",
+                        "images": [
+                            "sg-11134201-7rd4q-lx1vfzjuib7sd0",
+                            "sg-11134201-7rd6v-lx1vg0jn1x701d",
+                            "sg-11134201-7rd5h-lx1vg1gnply8d7",
+                            "sg-11134201-7rd5k-lx1vg2d4e3k601",
+                            "sg-11134201-7rd65-lx1vg34v9hsc70"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.0",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 1
+                        },
+                        "sold_count": {
+                            "text": ""
+                        }
+                    },
+                    "data_type": "item"
+                },
+                {
+                    "itemid": 24832962401,
+                    "shopid": 419969344,
+                    "is_adult": false,
+                    "need_kyc": false,
+                    "item_card_display_price": {
+                        "item_id": 24832962401,
+                        "model_id": 236503111604,
+                        "promotion_type": 301,
+                        "promotion_id": 538257809752064,
+                        "price": 9400000,
+                        "strikethrough_price": 13000000,
+                        "discount": 28
+                    },
+                    "item_card_display_sold_count": {
+                        "historical_sold_count": 0,
+                        "monthly_sold_count": 0
+                    },
+                    "is_sold_out": false,
+                    "is_preview": false,
+                    "label_ids": [
+                        1000031,
+                        1015215,
+                        844931064601283,
+                        844931086908638,
+                        1558577,
+                        1563576,
+                        822059952761878,
+                        5325720221445638,
+                        1119699,
+                        1003285,
+                        1718157937,
+                        298408310
+                    ],
+                    "catid": 100632,
+                    "shopee_verified": false,
+                    "liked_count": 0,
+                    "item_type": 0,
+                    "reference_item_id": "",
+                    "shop_data": {
+                        "shop_name": "BJD Doll toys",
+                        "shop_location": "Mainland China"
+                    },
+                    "status": 1,
+                    "ctime": 1719891154,
+                    "flag": 196608,
+                    "item_status": "normal",
+                    "global_cat": {
+                        "catid": [
+                            100632,
+                            100684,
+                            101008,
+                            101720
+                        ]
+                    },
+                    "item_rating": {
+                        "rating_star": 0,
+                        "rating_count": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "global_brand": {
+                        "brand_id": 0
+                    },
+                    "tier_variations": [
+                        {
+                            "name": "colour",
+                            "options": [
+                                "R-11",
+                                "R-12",
+                                "R-13",
+                                "R-14",
+                                "R-15",
+                                "R-16",
+                                "R-17",
+                                "R-18",
+                                "R-19"
+                            ],
+                            "images": [
+                                "sg-11134201-7rd6d-lx7rt2id1b6264",
+                                "sg-11134201-7rd6v-lx7rt3qr8cbq18",
+                                "sg-11134201-7rd56-lx7rt5qcbl56a9",
+                                "sg-11134201-7rd4o-lx7rt6von2w05c",
+                                "sg-11134201-7rd5w-lx7rt81kz6fc14",
+                                "sg-11134201-7rd5h-lx7rtann5j9m40",
+                                "sg-11134201-7rd4s-lx7rtcemld569c",
+                                "sg-11134201-7rd4v-lx7rteavth7q6b",
+                                "sg-11134201-7rd3z-lx7rtgaquwkg16"
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "item_card_displayed_asset": {
+                        "name": "20cm cotton doll dress change wedding dress fluffy skirt cute and fresh princess",
+                        "image": "sg-11134201-7rd41-lx7rsra3iao607",
+                        "images": [
+                            "sg-11134201-7rd41-lx7rsra3iao607",
+                            "sg-11134201-7rd6l-lx7rssafzpl405",
+                            "sg-11134201-7rd4n-lx7rst9yjqe85d",
+                            "sg-11134201-7rd72-lx7rsuy63mh636",
+                            "sg-11134201-7rd75-lx7rsvums4i261",
+                            "sg-11134201-7rd5c-lx7rswo1l2meb4",
+                            "sg-11134201-7rd4r-lx7rsxlc8cjq04",
+                            "sg-11134201-7rd6j-lx7rsydx2jftac",
+                            "sg-11134201-7rd4i-lx7rt0em5ka126"
+                        ],
+                        "icon_in_image": {
+                            "ads_text": "Ad"
+                        },
+                        "image_overlay": {
+                            "legacy_overlay": {
+                                "name": "May28-June30_SPLFSSCCB",
+                                "image_overlay": {
+                                    "hash": "ph-11134258-7rasd-ma83wjrh5dym57",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            }
+                        },
+                        "discount_tag": {
+                            "discount_text": "-28%"
+                        },
+                        "rating": {
+                            "rating_text": "4.8 Shop Rating",
+                            "icon": {
+                                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                                "width": 10,
+                                "height": 10
+                            },
+                            "rating_type": 2
+                        }
+                    },
+                    "data_type": "item"
+                }
+            ],
+            "card_set": {
+                "layout_id": 1,
+                "element_toggle": {
+                    "atc_button": false,
+                    "feedback_button": false
+                },
+                "card_set_name": "Shop Product Tab Other Sub Tab"
+            },
+            "card_version": "standard_version_v1"
+        },
+        "item_card_abt_data": {
+            "hit_exp_group": "Treatment 2"
+        },
+        "item_version": 1,
+        "dynamic_translation_status": 0
+    }
+}

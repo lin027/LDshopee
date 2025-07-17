@@ -18,9 +18,15 @@ const routes: Array<RouteRecordRaw> = [
   },
   {
     path: '/personalShop',
-    name: 'PersonalShop',
+    name: 'PersonalShop',//@ts-ignore
     component: () => import('../views/PersonalShop.vue')
   },
+  {
+    path: '/pantsize',
+    name: 'pantsize',//@ts-ignore
+    component: () => import('../views/pantSize.vue')
+  },
+
 
 ]
 

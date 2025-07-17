@@ -1,12 +1,26 @@
 <template>
   <div>
-    {{selectedCategory}}
-    <el-select v-model="selectedCategory" placeholder="请选择类别">
-      <el-option label="包延长绳子" value="BagStrap"></el-option>
-      <el-option label="包巾" value="BagScraf"></el-option>
-      <el-option label="内裤" value="panties"></el-option>
-      <el-option label="羽絨服" value="coat"></el-option>
-    </el-select>
+    <div class="select-group-row">
+      {{ selectedCategory }}
+      <div class="country-sel">
+        <span>国家：</span>
+        <el-select  v-model="selectedCountry" placeholder="请选择国家">
+        <el-option label="台湾" value="tw"></el-option>
+        <el-option label="新加坡" value="sp"></el-option>
+        </el-select>
+      </div>  
+      <div class="country-cat">
+        <span>类别：</span>
+        <el-select  v-model="selectedCategory" placeholder="请选择类别">
+          <el-option label="包延长绳子" value="BagStrap"></el-option>
+          <el-option label="包巾" value="BagScraf"></el-option>
+           <el-option label="BJD娃娃" value="bjd"></el-option>
+          <el-option label="羽絨服" value="coat"></el-option>
+          
+       </el-select>
+      </div>
+    </div>
+    
   </div> 
   <div class="table-container">
     <div class="table-left">
@@ -91,10 +105,12 @@
 // https://sg.xiapibuy.com/api/v4/shop/rcmd_items
 import * as XLSX from 'xlsx'
 import _ from 'lodash'
+import { hColgroup } from 'element-plus/es/components/table/src/h-helper.mjs'
 export default {
   data() {
     return {
-      selectedCategory: 'BagStrap', // 默认选择内裤
+      selectedCountry: 'sp',
+      selectedCategory: 'bjd', // 
       //表格数据
       searchkey: '',
       allTableData: [],
@@ -108,6 +124,12 @@ export default {
   },
   watch: {
     selectedCategory: {
+      handler(newVal) {
+        this.mergeData()
+      },
+      immediate: true,
+    },
+    selectedCountry: {
       handler(newVal) {
         this.mergeData()
       },
@@ -135,51 +157,95 @@ export default {
     async mergeData() {
       let jsonFilePaths=''
       try {
-        if (this.selectedCategory=="panties") {
-           jsonFilePaths = ['panties/1.JSON','panties/2.JSON','panties/3.JSON','panties/4.JSON']
-        }else if(this.selectedCategory=="BagScraf"){
-           jsonFilePaths = ['BagScraf/1.JSON','BagScraf/2.JSON','BagScraf/F1.JSON']
+        const category = this.selectedCategory;
+        const country = this.selectedCountry;
+        let worksheetData=[]
+        if (category == "BagScraf") {
+          jsonFilePaths = [
+            `BagScraf/${country}/1.JSON`,
+            `BagScraf/${country}/2.JSON`,
+            `BagScraf/${country}/3.JSON`,
+            `BagScraf/${country}/F1.JSON`,
+          ];
+          
+        } else if (category == "BagStrap") {
+          jsonFilePaths = [
+            `bagStrapLongchamp/${country}/1.JSON`,
+            `bagStrapLongchamp/${country}/3.JSON`
+          ];
+        }else if (category == "bjd") {
+          jsonFilePaths = [
+            `BJD/${country}/1.JSON`,
+            `BJD/${country}/2.JSON`,
+            `BJD/${country}/3.JSON`,
+            `BJD/${country}/4.JSON`
+          ];
+        } else if (category == "coat") {
+          jsonFilePaths = [
+            `coat/${country}/1.JSON`,
+            `coat/${country}/3.JSON`
+          ];
         }
-         else if(this.selectedCategory=="BagStrap"){
-            jsonFilePaths = ['bagStrapLongchamp/1.JSON','bagStrapLongchamp/3.JSON']
-         }
-         else if(this.selectedCategory=="coat"){
-            jsonFilePaths = ['coat/1.JSON','coat/3.JSON']
-         }
-         
-       
         // 读取并解析每个 JSON 文件的内容
         const jsonDataArray = await Promise.all(
           jsonFilePaths.map(filePath => this.fetchJsonFile(filePath))
         )
-        // 使用 Set 来存储已有的 itemid
+        console.log(jsonDataArray)
+        if(category == "bjd"){
+            // 使用 Set 来存储已有的 itemid
         const seenItemIds = new Set()
         // 合并所有 JSON 文件的数据
         const mergedData = jsonDataArray.reduce((acc, res) => {
-          console.log(res)
-          let data = res.data?res.data:res;
-        
-          if (Array.isArray(data.items)) {
-            data.items.forEach(item => {
+          let data = res.data.centralize_item_card;
+          if (Array.isArray(data.item_cards)) {
+            data.item_cards.forEach(item => {
               if (!seenItemIds.has(item.itemid)) {
                 seenItemIds.add(item.itemid)
-                const itemToPush = item.item_basic ? item.item_basic : item;
-                console.log(itemToPush)
+                let card_displayed_asset = item.item_card_displayed_asset;
+                let itemToPush={
+                  itemid: item.catid,
+                  shopid:item.shopid,
+                  name: item.item_card_displayed_asset.name,
+                  sold: item.item_card_display_sold_count.monthly_sold_count,
+                  historical_sold: item.item_card_display_sold_count.historical_sold_count,
+                  image: 'https://img.ws.mms.shopee.cn/file/' + card_displayed_asset.image + '_tn.webp',
+                  showPrice: item.item_card_display_price.price / 100000,
+                }
                 acc.push(itemToPush);
               }
             })
           }
           return acc
         }, [])
-        const worksheetData = mergedData.map(item => ({
-          itemid: item.itemid,
-          shopid: item.shopid,
-          name: item.name,
-          sold: item.sold,
-          historical_sold: item.historical_sold,
-          image: 'https://img.ws.mms.shopee.cn/file/' + item.image + '_tn.webp',
-          showPrice: item.price / 100000,
-        }))
+           worksheetData = mergedData;
+        }else{
+          // 使用 Set 来存储已有的 itemid
+        const seenItemIds = new Set()
+        // 合并所有 JSON 文件的数据
+        const mergedData = jsonDataArray.reduce((acc, res) => {
+          let data = res.data?res.data:res;
+          if (Array.isArray(data.items)) {
+            data.items.forEach(item => {
+              if (!seenItemIds.has(item.itemid)) {
+                seenItemIds.add(item.itemid)
+                const itemToPush = item.item_basic ? item.item_basic : item;
+                acc.push(itemToPush);
+              }
+            })
+          }
+          return acc
+        }, [])
+           worksheetData = mergedData.map(item => ({
+            itemid: item.itemid,
+            shopid: item.shopid,
+            name: item.name,
+            sold: item.sold,
+            historical_sold: item.historical_sold,
+            image: 'https://img.ws.mms.shopee.cn/file/' + item.image + '_tn.webp',
+            showPrice: item.price / 100000,
+          }))
+        }
+        
         const sum = worksheetData.reduce((acc, item) => {
           return acc + item.showPrice
         }, 0)
@@ -276,6 +342,19 @@ export default {
 </script>
 
 <style scoped>
+.select-group-row{
+  display: flex;
+}
+.country-cat{
+  margin-left: 80px;
+}
+.country-sel,.country-cat{
+  width: 400px;
+  display: flex;
+  span{
+    width: 80px;
+  }
+}
 /* 添加你的样式 */
 .table-container {
   display: flex;

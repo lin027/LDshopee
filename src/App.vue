@@ -16,6 +16,9 @@
         <el-menu-item index="3">
           <router-link to="/personalShop">店铺</router-link>
         </el-menu-item>
+        <el-menu-item index="4">
+          <router-link to="/pantsize">裤子</router-link>
+        </el-menu-item>
       </el-menu>
     </el-header>
     <el-main>
